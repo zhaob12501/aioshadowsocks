@@ -1,4 +1,7 @@
 # aioshadowsocks
+
+**forked from [Ehco1996/aioshadowsocks](https://github.com/Ehco1996/aioshadowsocks)**
+
 用 asyncio 重写 shadowsocks ~
 
 
